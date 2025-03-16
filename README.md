@@ -1,7 +1,7 @@
 # Air_quality_index_pred
 # EcoGuard: Advanced Air Quality Prediction System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Overview
 
@@ -95,9 +95,7 @@ python air_quality_prediction.py
 
 The EcoGuard project demonstrates the effectiveness of machine learning in air quality prediction, offering valuable insights for environmental monitoring and policy interventions. By leveraging advanced models like Random Forest, XGBoost, and Neural Networks, we aim to contribute to sustainable urban development and public health initiatives.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
